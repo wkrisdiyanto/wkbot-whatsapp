@@ -1,0 +1,11 @@
+@whiskeysockets/baileys
+qrcode-terminal
+replicate
+openai
+axios
+sharp
+dotenv
+google-tts-api
+ytdl-core
+google-translate-api
+fluent-ffmpeg
